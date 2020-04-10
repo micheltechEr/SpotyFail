@@ -1,0 +1,140 @@
+body{
+    background-color: #F037A5;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(-60%, #F037A5), color-stop(140%, #FAE62D));
+}
+
+.menu{
+    width:1600px;
+    height: 90px;
+    background-color: #666666;
+    margin: -17px;
+    position: fixed;
+    margin-bottom: 160px;
+
+}
+
+.menu ul{
+margin-left: 860px;    
+}
+.logo{
+    margin-top: -67px;
+    height: 50px;
+    width:140px;
+    margin-left: 210px;
+}
+
+.svelte-1gcdbl9{
+   height: 10px;
+   fill:#fff;
+}
+
+.aviso{
+    padding-top: 70px;
+}
+.menu li{
+display: inline-block;
+color: #FFFFFF;
+margin-top: 18px;
+padding: 8px;
+font-family: Circular, spotify-circular, Helvetica, Arial, sans-serif;
+font-size: 16px;
+line-height: 1.5;
+font-weight: 700;
+}
+
+.menu li a{
+    text-decoration: none;
+    color:#FFFFFF;
+}
+
+.apoie{
+    margin-left: -8px;
+    margin-top: -27px;
+    background-color: #FFFFFF;
+    width: 1800px;
+    height: 150px;
+    text-indent: 160px;
+    position: relative;
+}
+
+
+.covid{
+font-family: Circular, spotify-circular, Helvetica, Arial, sans-serif;
+margin-left: 230px;
+    text-indent: 90px;
+}
+h2.covid{
+    color:#2D46B9;
+    font-weight: 700;
+}
+
+.covid {
+    color:#000000;  
+        text-indent: 160px;
+}
+.conteudo p{
+    margin-top: -13px;
+    font-size:17px;
+    line-height: 24px;
+    font-weight:600;
+    text-indent: 2px;;
+}
+
+.conteudo p a{
+    color: #000000;
+}
+img.hero{
+   width: 1450px;
+    height: 950px
+    margin-left: 110px;;
+    margin-top: -950px;
+}
+
+.menu li a:hover{
+    color:#1DB954;
+}
+
+main{
+    margin-top: -150px;
+}
+
+h2.main{
+    font-size: 70px;
+    text-align: center;
+    margin-top: 350px;
+    font-family: Circular, spotify-circular,   Helvetica, Arial, sans-serif;
+    color:#FFFFFF; 
+    position: relative;
+    font-weight: 700;
+}
+
+p.main{
+    margin-top: -40px;
+    text-align: center;
+    font-family: Circular, spotify-circular,   Helvetica, Arial, sans-serif;
+    color:#FFFFFF;
+    font-size: 20px;
+    position: relative;
+    font-weight: 400;
+}
+
+.obtenha{
+    border:none;
+    box-shadow:1px solid #1DB954 ;
+    padding-top: -5px;
+    border-radius: 500px;
+    background-color: #1DB954;
+    position: relative;
+    margin-left: 600px;
+    margin-top: 50px;
+    height: 50px;
+    width: 320px;
+    cursor: pointer;
+}
+
+
+.obtenha a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 900;
+}
