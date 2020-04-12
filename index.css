@@ -138,3 +138,18 @@ p.main{
     color: #fff;
     font-weight: 900;
 }
+
+@media screen and (max-width: 768px) {
+    .logo{
+        margin-left:10px;
+    }
+.menu ul{
+margin-left: 115px;    
+   }
+.obtenha{
+margin-left: 50px;
+   }
+.conteudo{
+    margin-left: -210px;
+}
+}
