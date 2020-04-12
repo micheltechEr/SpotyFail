@@ -152,4 +152,13 @@ margin-left: 50px;
 .conteudo{
     margin-left: -210px;
 }
+    @media screen and (max-width: 768px) {
+.menu{
+    width: 1350px;
+    border-bottom: 1px solid #E0E0DA;
+}
+.titulo{
+    width: 320px;
+}
+}
 }
