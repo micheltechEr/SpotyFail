@@ -155,4 +155,12 @@ input{
 	border-bottom: 1px  solid #D3D3D3;
 	margin-left: 45px; 
 }
+@media screen and (max-width: 768px) {
+.menu ul{
+margin-top: -35px;
+margin-left: 150px;    
+}
+.logo{
+margin-left: -20px;
+}
 }
