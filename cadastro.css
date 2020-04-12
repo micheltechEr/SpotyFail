@@ -237,3 +237,13 @@ font-weight: 700;
 .apple_link:hover{
     cursor: pointer;
 }
+
+@media screen and (max-width: 768px) {
+.menu{
+    width: 1350px;
+    border-bottom: 1px solid #E0E0DA;
+}
+.titulo{
+    width: 320px;
+}
+}
